@@ -1,5 +1,4 @@
-# Bookstore Sales Management System
-# 书店销售管理系统
+# Bookstore Sales Management System 书店销售管理系统
 
 This is my course project for Database Systems Principles during my undergraduate studies.
 这是我本科期间“数据库系统原理”课程的课程设计。
